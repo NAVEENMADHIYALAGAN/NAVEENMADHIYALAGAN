@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋, I'm [Naveen]  
 
-<!--
-**NAVEENMADHIYALAGAN/NAVEENMADHIYALAGAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on **ML/AI**   
+📫 How to reach me: [naveenm2020ai@gmail.com]  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+I'm currently learning **Data Science**, focusing on:  
+- **Machine Learning** 🤖  
+- **Exploratory Data Analysis (EDA)** 📊  
+- **Statistics & Data Visualization** 📈  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Programming:** Python, SQL  
+- **Libraries:** NumPy, Pandas, Scikit-Learn, TensorFlow/PyTorch  
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Business Process Management (BPM):** Pega
+
+### 🌱 Currently Learning  
+- Advanced ML Techniques  
+- Deep Learning   
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="75" src="https://download.logo.wine/logo/Pegasystems/Pegasystems-Logo.wine.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+
+### 📫 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-m-4365a0200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moshithks025/" height="30" width="40" /></a>
+</p> 
