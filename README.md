@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="" width="100%">
+</p>
 ### Hi there 👋, I'm [Naveen]  
 
 👯 I’m looking to collaborate on **ML/AI/Data Science**   
